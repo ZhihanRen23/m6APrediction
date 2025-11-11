@@ -1,7 +1,8 @@
 Package: m6APrediction
 Type: Package
 Title: m6A Site Prediction
-Version: 0.1.0
+Version: chanhe it to 1.0.0
+Depends: set it to R (>= 3.5.0)
 Author: Zhihan.Ren
 Maintainer: Zhihan.Ren <zhihan.ren23@student.xjtlu.edu.cn>
 Description: Predicts m6A methylation sites using a random forest model.
