@@ -28,11 +28,11 @@ install.packages("m6APrediction_1.0.0.tar.gz", repos = NULL, type = "source")
 
 library(m6APrediction)
 
-# Load example model and data
+### Load example model and data
 m6A_model <- readRDS(system.file("extdata", "m6A_model.rds", package = "m6APrediction"))
 mini_db <- read.csv(system.file("extdata", "mini_db.csv", package = "m6APrediction"))
 
-# Run batch prediction
+### Run batch prediction
 res <- prediction_multiple(m6A_model, head(mini_db, 10))
 head(result)
 
