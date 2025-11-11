@@ -39,5 +39,5 @@ head(res)
 # Single prediction example
 prediction_single(m6A_model, mini_db[1, , drop = FALSE])
 
-#Author
+##  Author
 ZhihanRen23(zhihan.ren23@student.xjtlu.edu.cn)
