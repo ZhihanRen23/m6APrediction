@@ -22,6 +22,8 @@ If you cannot access Github, you may also install from a local aechive file:
 
 install.packages("m6APrediction_1.0.0.tar.gz", repos = NULL, type = "source")
 
+```r
+
 ##  Usage Example
 
 library(m6APrediction)
