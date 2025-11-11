@@ -1,0 +1,11 @@
+gene,species,chromosome,biotype,description,TPM_liver,TPM_brain,TPM_heart
+METTL3,Homo sapiens,14,protein_coding,m6A methyltransferase catalytic subunit,15.2,10.5,5.7
+METTL14,Homo sapiens,4,protein_coding,m6A methyltransferase complex subunit,12.1,9.8,6.2
+WTAP,Homo sapiens,6,protein_coding,m6A writer complex regulatory subunit,8.4,7.2,4.8
+FTO,Homo sapiens,16,protein_coding,Fat mass and obesity-associated protein (demethylase),9.7,4.5,7
+ALKBH5,Homo sapiens,17,protein_coding,m6A RNA demethylase,7.1,6.9,3.6
+YTHDF1,Homo sapiens,20,protein_coding,m6A reader protein,6.3,5.1,2.9
+YTHDF2,Homo sapiens,1,protein_coding,m6A reader protein promoting decay,5.8,8.7,3.2
+YTHDC1,Homo sapiens,19,protein_coding,nuclear m6A reader,4.1,7.9,2.4
+IGF2BP1,Homo sapiens,17,protein_coding,mRNA stabilizing protein; can bind m6A-marked mRNAs,3.2,4.4,1.7
+HNRNPC,Homo sapiens,14,protein_coding,RNA-binding protein involved in splicing,2.4,6.1,1.1

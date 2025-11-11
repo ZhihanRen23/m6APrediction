@@ -1,0 +1,13 @@
+Package: m6APrediction
+Type: Package
+Title: m6A Site Prediction
+Version: 0.1.0
+Author: Zhihan.Ren
+Maintainer: Zhihan.Ren <zhihan.ren23@student.xjtlu.edu.cn>
+Description: Predicts m6A methylation sites using a random forest model.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports:
+    randomForest
+RoxygenNote: 7.3.3
