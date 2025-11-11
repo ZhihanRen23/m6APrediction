@@ -11,3 +11,5 @@ LazyData: true
 Imports:
     randomForest
 RoxygenNote: 7.3.3
+URL: https://github.com/ZhihanRen23/m6APrediction
+BugReports: https://github.com/ZhihanRen23/m6APrediction/issues
