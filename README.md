@@ -26,6 +26,7 @@ install.packages("m6APrediction_1.0.0.tar.gz", repos = NULL, type = "source")
 
 ##  Usage Example
 
+```
 library(m6APrediction)
 
 ### Load example model and data
@@ -39,5 +40,6 @@ head(result)
 # Single prediction example
 prediction_single(m6A_model, mini_db[1, , drop = FALSE])
 
+```
 ##  Author
 ZhihanRen23(zhihan.ren23@student.xjtlu.edu.cn)
